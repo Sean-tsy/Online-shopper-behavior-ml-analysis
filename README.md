@@ -25,7 +25,7 @@ The project is implemented in Python using scikit-learn, pandas, and related too
 
 ## Data
 
-- **Dataset:** `online_shopper_intention.csv` (UCI)
+- **Dataset:** `online_shoppers_intention.csv` (UCI)
 - **Format:** Tabular data with behavioral features (page views, time, bounce rate, etc.)
 - **Scope:** ~12,000 user sessions with binary purchase labels and continuous value features
 
