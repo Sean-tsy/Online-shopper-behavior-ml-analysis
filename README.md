@@ -64,7 +64,7 @@ The project is implemented in Python using scikit-learn, pandas, and related too
 - **`project.ipynb`** — Complete workflow including data loading, preprocessing, classification, regression, and clustering analysis.
 
 
-**Environment Setup**
+## Environment Setup
 
 - OS: macOS (Apple Silicon, M1/M2/M3)
 - Python: 3.10
