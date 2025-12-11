@@ -82,7 +82,7 @@ The following packages were used in this project:
 - xgboost == 1.7.6
 - ucimlrepo
 - statsmodels
-
+```
 
 ## How to Run
 
