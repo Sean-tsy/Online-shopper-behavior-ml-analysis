@@ -87,5 +87,5 @@ The following packages were used in this project:
 ## How to Run
 
 ```bash
-git clone https://github.com/Sean-tsy/online-shopper-behavior-analysis.git
-cd online-shopper-behavior-analysis
+git clone https://github.com/Sean-tsy/online-shopper-behavior-ml-analysis.git
+cd online-shopper-behavior-ml-analysis
