@@ -70,7 +70,7 @@ The project is implemented in Python using scikit-learn, pandas, and related too
 - Python: 3.10
   
 The following packages were used in this project:
-```bash
+```
 - numpy == 1.23.5
 - pandas == 1.5.3
 - scikit-learn == 1.2.2
@@ -86,6 +86,6 @@ The following packages were used in this project:
 
 ## How to Run
 
-```bash
+```
 git clone https://github.com/Sean-tsy/online-shopper-behavior-ml-analysis.git
 cd online-shopper-behavior-ml-analysis
